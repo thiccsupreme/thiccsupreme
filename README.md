@@ -5,7 +5,7 @@
 
 > My Discord: thiccsupreme#0002
 
-###### My Projects ✍️
+##### My Projects ✍️
 
 * [Gambit Discord Bot](https://github.com/thiccsupreme/gambit-discord-bot)
 * [ElevateAIO Website](https://elevateaio.com/) - `Soon`
