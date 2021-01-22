@@ -1,7 +1,7 @@
 ### Hey 👋
 
-## My Socials 🏂
-> [Twitter](https://twitter.com/footlockerru) |  [Instagram](https://instagram.com/the.edwin.t)
+##### My Socials 🏂
+> [Twitter](https://twitter.com/footlockerru) |  [Instagram](https://instagram.com/the.edwin.t) | [Youtube](https://www.youtube.com/channel/UCitPH2rzFhzVSFIBxJSzmSA)
 
 > My Discord: thiccsupreme#0002
 
