@@ -1,5 +1,7 @@
-### Hi there 👋
-> My Twitter: [@FootlockerRU](https://twitter.com/footlockerru)
+### Hey 👋
+
+## My Socials 🏂
+> [Twitter](https://twitter.com/footlockerru) |  [Instagram](https://instagram.com/the.edwin.t)
 
 > My Discord: thiccsupreme#0002
 
