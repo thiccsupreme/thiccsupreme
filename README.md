@@ -3,8 +3,6 @@
 ##### My Socials 🏂
 > [Twitter](https://twitter.com/footlockerru) |  [Instagram](https://instagram.com/the.edwin.t) | [Youtube](https://www.youtube.com/channel/UCitPH2rzFhzVSFIBxJSzmSA) | [My Website](https://thiccsupreme.club)
 
-> My Discord: thiccsupreme#0002
-
 ##### My Projects ✍️
 
 * [Gambit Discord Bot](https://github.com/thiccsupreme/gambit-discord-bot)
