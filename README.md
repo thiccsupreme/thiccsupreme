@@ -10,5 +10,6 @@
 * [Discord Archive Bot](https://github.com/mosmolov/Discord-Archive-Bot) 
 
 [![thiccsupreme's github stats](https://github-readme-stats.vercel.app/api?username=thiccsupreme&show_icons=true&hide_title=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiccsupreme&layout=compact&theme=tokyonight)](https://github.com/thiccsupreme/github-readme-stats)
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fthiccsupreme)
